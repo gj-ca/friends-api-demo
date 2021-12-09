@@ -1,0 +1,1 @@
+$.getJSON("http://localhost:5000/users", data => console.log(data))

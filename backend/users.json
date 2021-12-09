@@ -1,0 +1,42 @@
+[
+    {
+        "id": 1,
+        "name": "Glen",
+        "hair": "brown",
+        "eye": "blue",
+        "age": "29",
+        "likes": "glue"
+    },
+    {
+        "id": 2,
+        "name": "John",
+        "hair": "bald",
+        "eye": "brown",
+        "age": "31",
+        "likes": "motorcycles"
+    },
+    {
+        "id": 3,
+        "name": "Luke",
+        "hair": "black",
+        "eye": "brown",
+        "age": "25",
+        "likes": "books"
+    },
+    {
+        "id": 4,
+        "name": "Paul",
+        "hair": "brown",
+        "eye": "greed",
+        "age": "21",
+        "likes": "boats"
+    },
+    {
+        "id": 5,
+        "name": "Picard",
+        "hair": "bald",
+        "eye": "brown",
+        "age": 100,
+        "likes": "spaceships"
+    }
+]

@@ -30,13 +30,16 @@
                     <th>Likes</th>
                 </tr>
             </thead>
+            <tbody id="friend-data">
+
+            </tbody>
         </table>
-        <button id="load">Load Friends</button>
+        <!-- <button id="load">Load Friends</button> -->
     </section>
 
     <section id="add-friend">
         <h2>Add A Friend</h2>
-        <form>
+        <form id="new-friend">
             <fieldset class="form-item">
                 <label for="name">Name:</label>
                 <input type="text" name="name" id="name" />
@@ -58,7 +61,7 @@
                 <label for="eye">Eye Colour:</label>
                 <select name="eye" id="eye">
                     <option value="brown" >Brown</option>
-                    <option value="green" >Black</option>
+                    <option value="green" >Green</option>
                     <option value="blue" >Blue</option>
                 </select>
             </fieldset>
@@ -69,6 +72,5 @@
             <button>Submit</button>
         </form>
     </section>
-    
 </body>
 </html>
